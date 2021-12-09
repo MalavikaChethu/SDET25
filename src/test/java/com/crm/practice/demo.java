@@ -7,6 +7,7 @@ public class demo {
 	@Test
 	public void print() {
 		System.out.println("Hello World....");
+		System.out.println("Hello Galaxy...");
 	}
 
 }
