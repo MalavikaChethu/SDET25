@@ -8,6 +8,7 @@ public class demo {
 	public void print() {
 		System.out.println("Hello World....");
 		System.out.println("Hello Galaxy...");
+		System.out.println("Hello Universe...");
 	}
 
 }
