@@ -2,7 +2,7 @@ package com.crm.practice;
 
 import org.testng.annotations.Test;
 
-public class demo {
+public class DemoTest {
 	
 	@Test
 	public void print() {
